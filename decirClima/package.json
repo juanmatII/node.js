@@ -1,0 +1,17 @@
+{
+  "name": "decirclima",
+  "version": "1.0.0",
+  "description": "App que dice el clima en tiempo real de la ciudad escrita por el usuario",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "chalk": "^5.4.1"
+  }
+}
